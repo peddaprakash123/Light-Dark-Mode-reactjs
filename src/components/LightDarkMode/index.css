@@ -1,0 +1,72 @@
+.bg-container {
+  background-color: #000000;
+  background-size: cover;
+  padding: 20px;
+  font-family: Roboto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  border-radius: 10px;
+}
+.bg-container2 {
+  background-color: transparent;
+  background-size: cover;
+  padding: 20px;
+  border: 3px solid #000000;
+  font-family: Roboto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  border-radius: 10px;
+}
+.bg-container1 {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 35px;
+}
+.heading1 {
+  color: #000000;
+  font-size: 35px;
+}
+
+.paragraph {
+  color: #ffffff;
+  font-size: 16px;
+}
+.button {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 15px;
+  border: 0px;
+  padding: 15px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.button1 {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 15px;
+  border: 3px solid #000000;
+  padding: 15px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
